@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/cursor-airbrush.png</file>
+        <file>images/cursor-eraser.png</file>
+        <file>images/cursor-felt-marker.png</file>
+        <file>images/cursor-pencil.png</file>
+        <file>images/watercolorpaper.jpg</file>
+    </qresource>
+</RCC>
